@@ -9,7 +9,7 @@ The package math_operations is used to perform basic mathematical operations suc
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install math_operations
 
 ```bash
-pip install math_operations
+pip install math_ops_viviani
 ```
 
 ## Author
